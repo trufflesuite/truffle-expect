@@ -1,4 +1,6 @@
 # truffle-expect
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/trufflesuite/truffle-expect.svg)](https://greenkeeper.io/)
 Simple module for ensuring expected parameters exist
 
 ### install
